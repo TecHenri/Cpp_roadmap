@@ -1,6 +1,6 @@
 # 📚 C++ Learning Series
 
-[![CI](https://github.com/TON_USERNAME/cpp-learn/actions/workflows/build.yml/badge.svg)](https://github.com/TON_USERNAME/cpp-learn/actions/workflows/build.yml)
+[![CI](https://github.com/TecHenri/cpp-learn/actions/workflows/build.yml/badge.svg)](https://github.com/TecHenri/cpp-learn/actions/workflows/build.yml)
 
 A collection of progressively complex C++ projects built to master modern C++ (C++17), software architecture, algorithms, and full-stack development.
 
