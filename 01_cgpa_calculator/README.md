@@ -1,17 +1,28 @@
+<<<<<<< HEAD
 # 01 — CGPA Calculator
 
 > **C++ · CMake · REST API · SQLite · React**
 
 ---
+=======
+# C++ Learning Series — Cpp Roadmap
+
+[![CI](https://github.com/TecHenri/Cpp_roadmap/actions/workflows/build.yml/badge.svg)](https://github.com/TecHenri/Cpp_roadmap/actions/workflows/build.yml)
+>>>>>>> c153c8b772b7ef510fa05f45bdc664f08b320340
 
 ## 🇫🇷 Français
 
 ### Description
 
+<<<<<<< HEAD
 Calculateur de moyenne cumulative (CGPA) complet, avec backend C++ exposant une API REST et interface web React. Le projet couvre l'ensemble de la stack d'une application réelle : modèle de données, algorithmes, persistance, API, et frontend.
+=======
+## Projets
+>>>>>>> c153c8b772b7ef510fa05f45bdc664f08b320340
 
 ### Concepts pratiqués
 
+<<<<<<< HEAD
 | Catégorie | Détails |
 |-----------|---------|
 | **POO C++17** | Classes, namespaces, constructeurs move, exceptions |
@@ -44,6 +55,11 @@ Calculateur de moyenne cumulative (CGPA) complet, avec backend C++ exposant une 
              │
        data/cgpa.db  (SQLite)
 ```
+=======
+---
+
+## Stack utilisée
+>>>>>>> c153c8b772b7ef510fa05f45bdc664f08b320340
 
 ### Modèle de données
 
@@ -52,6 +68,7 @@ Student (id, name)
   └── Semester (label)
         └── Course (name, credits, letterGrade)
 
+<<<<<<< HEAD
 CGPA = Σ(credits × gradePoint) / Σ(credits)
 ```
 
@@ -108,6 +125,9 @@ Les suppressions sont propagées en cascade (`ON DELETE CASCADE`).
 ### Lancer le projet
 
 **Prérequis** : Visual Studio 2022, Node.js ≥ 18
+=======
+## Comment compiler un projet
+>>>>>>> c153c8b772b7ef510fa05f45bdc664f08b320340
 
 ```bash
 # 1. Backend C++
