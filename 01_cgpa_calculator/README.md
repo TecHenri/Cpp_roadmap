@@ -10,7 +10,7 @@ Une série de projets C++ de complexité croissante pour maîtriser le C++ moder
 
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
-| 01 | [CGPA Calculator](./01_cgpa_calculator/) | OOP, Algorithms, REST API, SQLite, React | ✅ Complete |
+| 01 | [CGPA Calculator](./cgpa_calculator/) | OOP, Algorithms, REST API, SQLite, React | ✅ Complete |
 
 ---
 
