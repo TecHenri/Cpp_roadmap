@@ -1,26 +1,20 @@
-# 📚 C++ Learning Series
+# C++ Learning Series
 
-[![CI](https://github.com/TecHenri/cpp-learn/actions/workflows/build.yml/badge.svg)](https://github.com/TecHenri/cpp-learn/actions/workflows/build.yml)
-
-A collection of progressively complex C++ projects built to master modern C++ (C++17), software architecture, algorithms, and full-stack development.
-
----
+[![CI](https://github.com/TecHenri/Cpp_roadmap/01_cgpa_calculator/actions/workflows/build.yml/badge.svg)](https://github.com/TecHenri/Cpp_roadmap/01_cgpa_calculator/actions/workflows/build.yml)
 
 Une série de projets C++ de complexité croissante pour maîtriser le C++ moderne (C++17), l'architecture logicielle, les algorithmes, et le développement full-stack.
 
 ---
 
-## Projects / Projets
+## Projets
 
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
 | 01 | [CGPA Calculator](./01_cgpa_calculator/) | OOP, Algorithms, REST API, SQLite, React | ✅ Complete |
 
-> More projects coming soon / D'autres projets arrivent bientôt.
-
 ---
 
-## Tech Stack used across the series / Stack utilisée
+## Stack utilisée
 
 - **Language** : C++17
 - **Build** : CMake (cross-platform Windows/Linux)
@@ -31,7 +25,7 @@ Une série de projets C++ de complexité croissante pour maîtriser le C++ moder
 
 ---
 
-## How to build any project / Comment compiler un projet
+## Comment compiler un projet
 
 ```bash
 cd <project_folder>
