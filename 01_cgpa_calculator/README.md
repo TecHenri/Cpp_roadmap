@@ -1,6 +1,6 @@
-# C++ Learning Series
+# C++ Learning Series — Cpp Roadmap
 
-[![CI](https://github.com/TecHenri/Cpp_roadmap/01_cgpa_calculator/actions/workflows/build.yml/badge.svg)](https://github.com/TecHenri/Cpp_roadmap/01_cgpa_calculator/actions/workflows/build.yml)
+[![CI](https://github.com/TecHenri/Cpp_roadmap/actions/workflows/build.yml/badge.svg)](https://github.com/TecHenri/Cpp_roadmap/actions/workflows/build.yml)
 
 Une série de projets C++ de complexité croissante pour maîtriser le C++ moderne (C++17), l'architecture logicielle, les algorithmes, et le développement full-stack.
 
@@ -10,7 +10,7 @@ Une série de projets C++ de complexité croissante pour maîtriser le C++ moder
 
 | # | Project | Concepts | Status |
 |---|---------|----------|--------|
-| 01 | [CGPA Calculator](./cgpa_calculator/) | OOP, Algorithms, REST API, SQLite, React | ✅ Complete |
+| 01 | [CGPA Calculator](./01_cgpa_calculator/) | OOP, Algorithms, REST API, SQLite, React | ✅ Complete |
 
 ---
 
