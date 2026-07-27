@@ -4,6 +4,8 @@
 
 ---
 
+## 🇫🇷 Français
+
 ### Description
 
 Calculateur de moyenne cumulative (CGPA) complet, avec backend C++ exposant une API REST et interface web React. Le projet couvre l'ensemble de la stack d'une application réelle : modèle de données, algorithmes, persistance, API, et frontend.
