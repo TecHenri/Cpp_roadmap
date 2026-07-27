@@ -1,21 +1,36 @@
-# Cpp_roadmap
-# Montée en compétence sur le C++
+# C++ Learning Series — Cpp Roadmap
 
-Ce dépôt regroupe une série de projets et d'exercices pratiques visant à approfondir la maîtrise du langage C++ et des concepts associés au développement logiciel moderne.
+[![CI](https://github.com/TecHenri/Cpp_roadmap/actions/workflows/build.yml/badge.svg)](https://github.com/TecHenri/Cpp_roadmap/actions/workflows/build.yml)
 
-Chaque projet est indépendant et possède sa propre configuration (`CMakeLists.txt`, `.gitignore`, documentation et dépendances) afin de reproduire une approche proche d'un environnement professionnel.
+Une série de projets C++ de complexité croissante pour maîtriser le C++ moderne (C++17), l'architecture logicielle, les algorithmes, et le développement full-stack.
 
-Les thématiques abordées incluent notamment :
+---
 
-- Fondamentaux du langage C++
-- Programmation orientée objet
-- Gestion de la mémoire et RAII
-- Utilisation de la STL
-- Programmation moderne (C++11/14/17/20)
-- Templates et métaprogrammation
-- Multithreading et programmation concurrente
-- Optimisation et performance
-- Tests unitaires et bonnes pratiques de développement
-- Conception logicielle et architecture
+## Projets
 
-L'objectif est de construire progressivement une expertise solide en C++, avec une approche orientée ingénierie logicielle, systèmes et développement haute performance.
+| # | Project | Concepts | Status |
+|---|---------|----------|--------|
+| 01 | [CGPA Calculator](./01_cgpa_calculator/) | OOP, Algorithms, REST API, SQLite, React | ✅ Complete |
+
+---
+
+## Stack utilisée
+
+- **Language** : C++17
+- **Build** : CMake (cross-platform Windows/Linux)
+- **HTTP** : [cpp-httplib](https://github.com/yhirose/cpp-httplib) (header-only)
+- **JSON** : [nlohmann/json](https://github.com/nlohmann/json) (header-only)
+- **Database** : SQLite (amalgamation)
+- **Frontend** : React + Vite
+
+---
+
+## Comment compiler un projet
+
+```bash
+cd <project_folder>
+mkdir build && cd build
+cmake ..
+make          # Linux/Mac
+# or open CMakeLists.txt in Visual Studio on Windows
+```
